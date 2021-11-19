@@ -1,0 +1,6 @@
+name: azure-py-vm-component
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: a pulumi component resource for virtual machines in Azure
