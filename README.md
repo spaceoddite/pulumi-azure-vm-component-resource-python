@@ -1,2 +1,2 @@
-# pulumi-azure-vm-component-resource-python
-Azure virtual machine as a component resource in python 
+# virtual Machine component resource 
+Azure virtual machine as a pulumi component resource in python 
