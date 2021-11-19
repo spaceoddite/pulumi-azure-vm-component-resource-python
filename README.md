@@ -1,2 +1,2 @@
-# virtual Machine component resource 
+# Virtual Machine component resource 
 Azure virtual machine as a pulumi component resource in python 
